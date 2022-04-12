@@ -1,0 +1,18 @@
+.changeAddress{
+    color: #0031ff;
+    text-decoration: none ;
+}
+.changeAddress:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.controlPanel{
+    position: absolute;
+    background-color: white;
+    border-radius:8px;
+    margin: 0.2rem 0 0 0.2rem;
+    padding: 0.5rem ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
